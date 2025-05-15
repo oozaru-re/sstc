@@ -70,8 +70,8 @@ Thanks ao Tavicu & co pelo trabalho impecável com TVs Samsung.
 
 ##  Autor
 
-**AgniK4i**  
-GitHub: [github.com/agnik4i](https://github.com/agnik4i)
+**Oozaru-Re**  
+GitHub: [github.com/oozaru-re](https://github.com/oozaru)
 
 ---
 
