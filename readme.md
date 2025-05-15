@@ -71,7 +71,7 @@ Thanks ao Tavicu & co pelo trabalho impecável com TVs Samsung.
 ##  Autor
 
 **Oozaru-Re**  
-GitHub: [github.com/oozaru-re](https://github.com/oozaru)
+GitHub: [github.com/oozaru-re](https://github.com/oozaru-re)
 
 ---
 
